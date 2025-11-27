@@ -265,7 +265,7 @@
             padding: 10px 0px;
             background: rgba(255, 255, 255,.96);
             // background: #2C2C2C;
-            background: #000;
+            // background: #000;
             // padding-bottom: 0;
             @media #{$mobile_device} {
                 padding: 10px 0px;
@@ -284,7 +284,7 @@
                 ul{
                     li{
                         a{
-                            color: #fff;
+                            color: #000;
                         }
                     }
                 }

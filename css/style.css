@@ -1272,7 +1272,7 @@ h3 {
   box-shadow: 0px 3px 16px 0px rgba(0, 0, 0, 0.1);
   padding: 10px 0px;
   background: rgba(255, 255, 255, 0.96);
-  background: #000;
+  /* background: #000; */
 }
 
 @media (max-width: 767px) {
@@ -1305,7 +1305,7 @@ h3 {
 
 /* line 286, ../../Arafath/CL/CL October/220 Tasty Recipes/HTML/scss/_header.scss */
 .header-area .main-header-area.sticky .main-menu ul li a {
-  color: #fff;
+  color: #000;
 }
 
 /* line 292, ../../Arafath/CL/CL October/220 Tasty Recipes/HTML/scss/_header.scss */
